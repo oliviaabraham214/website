@@ -1,0 +1,10 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: purple;
+}
+img{
+    max-width: 50%;
+    max-height: 50%;
+}
